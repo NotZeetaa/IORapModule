@@ -2,7 +2,7 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 
-
+ro.iorapd.enable=true
 iorapd.perfetto.enable=true
 iorapd.readahead.enable=true
 iorapd.log.verbose=true
